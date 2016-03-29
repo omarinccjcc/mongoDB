@@ -6,6 +6,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<dependencies>
+
+
+
 		<!-- mongodb java driver -->
 		<dependency>
 			<groupId>org.mongodb</groupId>
